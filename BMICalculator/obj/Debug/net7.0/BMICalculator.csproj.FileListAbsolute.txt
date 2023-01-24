@@ -1,0 +1,15 @@
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/bin/Debug/net7.0/BMICalculator
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/bin/Debug/net7.0/BMICalculator.deps.json
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/bin/Debug/net7.0/BMICalculator.runtimeconfig.json
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/bin/Debug/net7.0/BMICalculator.dll
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/bin/Debug/net7.0/BMICalculator.pdb
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/BMICalculator.csproj.AssemblyReference.cache
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/BMICalculator.AssemblyInfoInputs.cache
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/BMICalculator.AssemblyInfo.cs
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/BMICalculator.dll
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/refint/BMICalculator.dll
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/BMICalculator.pdb
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/BMICalculator.genruntimeconfig.cache
+/Users/elijahamoako/Projects/BMICalculator/BMICalculator/obj/Debug/net7.0/ref/BMICalculator.dll
