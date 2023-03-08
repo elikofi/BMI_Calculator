@@ -14,12 +14,11 @@ switch (versionType)
         Console.Write("Enter your weight in pounds (lbs): - ");
         weight = double.Parse(Console.ReadLine());
 
-        Console.Write("\nEnter your height in feet: - ");
+        Console.Write("\nEnter your height in inches: - ");
         height = double.Parse(Console.ReadLine());
 
-        heightInInches = (int)(height * 12);
-
-        IBMI = (weight / Math.Pow(heightInInches, 2)) * 703;
+        heightInInches = Math.Pow(height, 2);
+        IBMI = (weight / heightInInches) * 703;
 
         switch (IBMI)
         {
